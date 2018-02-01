@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = "8.0"
 
- s.source       = { :git => "", :tag => "0.0.6" }
+ s.source       = { :git => "https://github.com/Srinivasulu3264/CustomFrameWorkCreation.git", :tag => "0.0.6" }
 
 
   s.source_files  = "CustomFrameWorkCreation", "CustomFrameWorkCreation/**/*.{h,m,swift}"
